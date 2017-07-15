@@ -1,0 +1,312 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+#wrapper{
+	max-width: 1440px;
+	margin: 0px auto;
+	
+}
+header{
+	max-height: 809px;
+}
+
+#tablet{
+	display: none;
+}
+
+
+body {
+  text-align: center;
+  background: #f5f5f5;
+  font-family: 'Alegreya', sans-serif;
+}
+
+#banner{
+	position: absolute;
+	margin-top: 10%;
+	left: 33%;
+}
+
+#bantab{
+	display: none;
+}
+
+#banmob{
+	display: none;
+}
+
+h1 {
+	font-size: 410%;
+}
+
+h2 {
+	font-size: 170%;
+	margin-top: 5px;
+	margin-bottom: 70px;
+}
+
+h3 {
+	margin: 50px 0px;
+}
+
+h4 {
+	margin-top: 40px;
+	font-size: 70%;
+	color: gray;
+	padding: 5px;
+	margin-bottom: 0px;
+}
+
+#digi{
+	position: absolute;
+	top: 40%;
+}
+
+nav {
+	background-color: #f1ece0;
+	width: 100%;
+	height: 90px;
+}
+
+nav ul {
+	margin-top: 2%;
+	margin-right: 5%;
+	list-style: none;
+	float: right;
+}
+
+nav ul li {
+	font-family: 'Alegreya', sans-serif;
+	font-size: 120%;
+	display: inline-block;
+	float: left;
+	padding: 10px;
+}
+
+nav ul li a{
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	color: #eeeeee;
+}
+
+#logo{
+	margin-top: 2%;
+	margin-left: 10%;
+	float: left;
+}
+
+.trecina {
+	padding-top: 10px;
+	text-align:center;
+	width: 33.1%;
+	display: inline-block;
+}
+
+.trecina > p {
+	padding: 25px;
+	text-align: left;
+}
+
+#design{
+	background-color: #e3e3e3;;
+}
+
+.poslovi{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+#white{
+	text-align: left;
+	padding: 30px;
+	font-size: 130%;
+}
+
+#white h3 {
+	margin-top: 10px;
+}
+
+#white > button {
+	background-color:#eeeeee;
+    border: 2px solid black;
+	border-radius: 3px; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	padding: 10px 15px;
+	font-size: 120%;
+	float: right;
+	margin-top: 55px;
+}
+
+#white > a {
+	border: 1px #e3e3e3 solid;
+}
+
+#thumb{
+	margin-top: 10px;
+}
+
+#thumb a {
+	text-decoration: none;
+	color: black;
+	padding: 3px 5px;
+	margin: 2px;
+	border-color: black 2px;
+	border: 2px solid black;
+	border-radius: 2px;
+}
+
+#thumb2{
+	margin-top: 10px;
+}
+ 
+#thumb2 a {
+	text-decoration: none;
+	color: red;
+	padding: 3px 5px;
+	margin: 2px;
+	border: 2px solid #eeeeee;
+	border-radius: 2px;
+}
+
+#area {
+	margin-left: 35px;
+	display: inline-block;
+	text-align:left;
+
+}
+
+#gray{
+	text-align: left;
+	background-color: #222222;
+	color: #eeeeee;
+	padding: 30px;
+	font-size: 130%;
+}
+
+#gray h3 {
+	margin-top: 10px;
+}
+
+#gray > button {
+	background-color:#222222;
+	color: #eeeeee;
+    border: 2px solid #eeeeee;
+	border-radius: 3px; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	padding: 10px 15px;
+	font-size: 120%;
+	float: right;
+	margin-top: 55px;
+}
+
+#gray > button:hover {
+	background-color:#eeeeee;
+    border: 2px solid black;
+	border-radius: 3px; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	padding: 10px 15px;
+	font-size: 120%;
+	float: right;
+	margin-top: 55px;
+	color: black;
+}
+
+#white > button:hover {
+	background-color:#222222;
+	color: #eeeeee;
+    border: 2px solid #eeeeee;
+	border-radius: 3px; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	padding: 10px 15px;
+	font-size: 120%;
+	float: right;
+	margin-top: 55px;
+}
+#jos {
+	background-color:#eeeeee;
+	color: #eeeeee;
+	color: #222222;
+	border-radius: 3px; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+	padding: 10px 15px;
+	font-size: 120%;
+	margin-top: 55px;
+}
+
+.about {
+	padding: 70px 0px;
+	width: 100%;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	background-color: #fbfbfb;
+	display: block;
+	text-align: center;
+}
+
+.about p {
+	padding: 50px 20%;
+	text-align: center;
+	max-width: 900px;
+}
+
+#follow{
+	margin-top: 70px;
+	margin-bottom: 100px;
+}
+
+#follow > a:hover{
+	opacity: 0.7;
+}
+
+#bottom{
+	background-color: #222222;
+	color: #eeeeee;
+}
+
+#location{
+	display: inline-block;
+	margin: 40px;
+}
+
+#location > h5{
+	display: inline-block;	
+}
+
+#location > img {
+	display: inline-block;
+}
+footer {
+	max-width: 100%;
+	background-color: #1e1e1e;
+	padding: 10px;
+}
+footer > p {
+	color: #eeeeee;
+	margin-left: 20px;
+	display: inline-block;
+	float: left;
+}
+ footer > a {
+ 	text-decoration: none;
+ 	color:#666666;
+ 	float: right;
+ 	margin-right: 20px;
+ }

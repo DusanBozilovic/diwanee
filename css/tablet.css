@@ -1,0 +1,45 @@
+@media only screen and (max-width: 1025px){
+
+	#wrapper{
+		max-width: 1024px;
+		margin: 0px auto;
+	
+	} 
+
+	#bandesk{
+		display: none;
+	}
+
+	#banmob{
+		display: none;
+	}
+
+	#bantab{
+	display: inline-block;
+	}
+
+	#tablet{
+	display: inline-block;
+	float: right;
+	}
+
+	ul{
+		display: none;
+	}
+
+	h1 {
+	font-size: 260%;
+	left: 33%;
+	}
+
+	h2 {
+		font-size: 120%;
+		margin-top: 5px;
+		margin-bottom: 70px;
+	}
+
+	h3 {
+		margin: 50px 0px;
+	}
+
+}
